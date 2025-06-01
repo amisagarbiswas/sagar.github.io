@@ -44,11 +44,11 @@
 
 ## 🤝 I’m Looking to Collaborate On
 
-- 📝 **Proofreading** of my **literary and scientific work**  
 - 💬 Review of scientific reports and Bengali writing  
 - 🔧 Web Architecture and UI/UX Design  
 - 📊 Simulation and Visualization Tools  
 - 🧪 Experimental Design + Data Science projects
+- 📝 **Proofreading** of my **literary and scientific work**  
 
 ---
 
