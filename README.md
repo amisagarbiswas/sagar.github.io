@@ -101,6 +101,8 @@
 
 ## 📜 Literature & Resources
 - [মনের অন্তরালে](./moner%20ontorale.txt)
+- [হারানো সুর](./harano%20sur.pdf)
+  
   
 ## 🔬 Research Tools & Projects
 - 🎯 [Split-Hopkinson Pressure Bar Analysis Tool](https://github.com/amisagarbiswas/SHPB-Analysis) - Dynamic material testing analysis package
