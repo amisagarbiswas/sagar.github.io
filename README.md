@@ -1,7 +1,7 @@
 # Hello, I'm Sagar Biswas 👋
 
-<p align="center">
-  <img src="https://github.com/amisagarbiswas.png" width="150" alt="Sagar Biswas profile photo" style="border-radius:50%;">
+<p align="left">
+  <img src="https://github.com/amisagarbiswas.png" width="250" alt="Sagar Biswas profile photo" style="border-radius:50%;">
 </p>
 
 
