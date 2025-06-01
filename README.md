@@ -89,7 +89,7 @@
 # 📚 Repository Contents
 
 ## 📜 Literature & Resources
-- [Moner Ontorale (Bengali)](./moner%20ontorale.txt) - Personal Bengali literature/notes
+- [মনের অন্তরালে](./moner%20ontorale.txt) - Personal Bengali literature/notes
 
 ## 🔬 Research Tools & Projects
 - 🎯 [Split-Hopkinson Pressure Bar Analysis Tool](https://github.com/amisagarbiswas/SHPB-Analysis) - Dynamic material testing analysis package
