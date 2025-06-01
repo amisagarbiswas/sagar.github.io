@@ -22,12 +22,6 @@
 
 🎵 I am learning **music arrangement**, 🎨 **advanced painting**, and am an active **writer in Bengali literature**.
 
----
-## 🎥 Simulation Videos & Visualizations
-
-### 🔬 DEM Granular Simulations
-[![DEM Granular Flow in Silo](https://img.shields.io/badge/📽️-Watch_Silo_Discharge_Simulation-red)](https://www.linkedin.com/posts/sagar-biswas-749923214_liggghts-paraview-solidworks-activity-7245294066794405888-8ndc?utm_source=share&utm_medium=member_android&rcm=ACoAADY95mkB25LHrMWERtiwL_RsZgJ_oyDrzvY)  
-*LIGGGHTS-Paraview simulation of granular flow dynamics in silo discharge*
 
 
 ### 🎓 Education and Achievements
@@ -102,6 +96,13 @@
 `AI/ML` • `Simulation Design` • `Bengali Literature` • `Art & Music`
 
 ---
+---
+## 🎥 Simulation Videos & Visualizations
+
+### 🔬 DEM Granular Simulations
+[![DEM Granular Flow in Silo](https://img.shields.io/badge/📽️-Watch_Silo_Discharge_Simulation-red)](https://www.linkedin.com/posts/sagar-biswas-749923214_liggghts-paraview-solidworks-activity-7245294066794405888-8ndc?utm_source=share&utm_medium=member_android&rcm=ACoAADY95mkB25LHrMWERtiwL_RsZgJ_oyDrzvY)  
+*LIGGGHTS-Paraview simulation of granular flow dynamics in silo discharge*
+
 
 # 📚 Repository Contents
 
