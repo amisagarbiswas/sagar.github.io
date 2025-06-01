@@ -1,7 +1,7 @@
 # Hello, I'm Sagar Biswas 👋  
 ![hand-gif](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
-## ⚡ Engineer | Researcher | Developer
+## ⚡ Engineer | Researcher | Social Worker | Writer
 
 ---
 
@@ -12,66 +12,58 @@
 
 ## 📝 About Me
 
-🎓 I'm a Researcher and Developer passionate about **Engineering, Material Science, and Computational Analysis**.  
-📊 I work on **Discrete Element Modeling (DEM)**, **Statistical Analysis**, and **Simulation tools**.  
-💡 Currently diving deep into **Web Apps with AI/ML integration**.
+🎓 I’m an alumnus of **IIT Guwahati** with deep interest in **Engineering, Material Science, and Literature**.  
+🎵 I am currently learning **music arrangement** and 🎨 **advanced painting**.  
+✍️ I'm also an active **writer in Bengali literature**, exploring fairytales, social issues, and human emotions.  
+🌱 Passionate about knowledge across sciences and humanities.
 
 ---
 
-## 🔭 I’m currently working on
+## 🔭 I’m Currently Working On
 
-- 📈 Strain rate analysis using **LIGGGHTS DEM**
-- 🌐 Web-based scientific visualization
-- 🧠 AI/ML integration in scientific computation
-
----
-
-## 🤝 I’m looking to collaborate on
-
-- 🔧 Web Architecture and UI/UX Design  
-- 📊 Simulation and Visualization Tools  
-- 🧪 Experimental Design + Data Science projects
+- 🧪 SHPB analysis of **granular materials**
+- 📚 Literature in **Bengali fairytale format**
+- 🌍 Articles and essays on **social issues**
 
 ---
 
-## 🤗 I’m looking for help with
+## 🤝 I’m Looking to Collaborate On
 
-- 🎨 UI/UX improvement  
-- 💬 Front-end refinement for scientific apps
+- 📝 **Proofreading** of my literary and scientific work  
+- 💬 Scientific reports and Bengali writing review
 
 ---
 
 ## 📚 Currently Learning
 
-- 🇯🇵 Japanese & 🇩🇪 German  
-- 🧠 Machine Learning / AI  
-- 💻 TypeScript  
-- 📘 HRDIC frameworks
+- 🗣️ **Assamese** & **Urdu** languages  
+- 🎶 Music arrangement and theory  
+- 🎨 Techniques in advanced digital and traditional painting
 
 ---
 
 ## 💬 Ask Me About
 
-- ⚙️ Engineering simulations  
-- 📊 Statistical modeling & analysis  
-- 💡 Research ideation and prototyping  
-- 🛠 DEM tools like **LIGGGHTS** and **SHPB analysis**
+- ⚙️ Engineering simulations & SHPB  
+- 📖 Bengali literature & storytelling  
+- 🧠 Research ideation and writing  
+- 🛠 LIGGGHTS and DEM tools
 
 ---
 
 ## 🌐 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amisagarbiswas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amisagarbiswas)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![YouTube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amisagarbiswas/sagar.github.io.git)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-biswas-749923214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@piearth343)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sagar._biswas._?igsh=MXNxOW5ocXUwOXpoag==)
 
 ---
 
 ## ✨ Skills
 
 `LIGGGHTS` • `MATLAB` • `Python` • `C++` • `HTML/CSS` • `Git`  
-`AI/ML` • `Simulation Design` • `Statistical Analysis` • `Web Dev`  
+`AI/ML` • `Simulation Design` • `Bengali Literature` • `Art & Music`  
 
 ---
 
@@ -85,4 +77,3 @@
 ---
 
 📆 **22 contributions in the last year**
-
