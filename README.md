@@ -89,8 +89,8 @@
 # 📚 Repository Contents
 
 ## 📜 Literature & Resources
-- [মনের অন্তরালে](./moner%20ontorale.txt) - Personal Bengali literature/notes
-
+- [মনের অন্তরালে](./moner%20ontorale.txt)
+  
 ## 🔬 Research Tools & Projects
 - 🎯 [Split-Hopkinson Pressure Bar Analysis Tool](https://github.com/amisagarbiswas/SHPB-Analysis) - Dynamic material testing analysis package
 - 📊 [DEM-based Strain Rate Simulation](https://github.com/amisagarbiswas) - Discrete Element Method simulations
