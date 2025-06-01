@@ -86,12 +86,16 @@
 
 ---
 
-## 📽️ Popular Repositories
+# 📚 Repository Contents
 
-- 🎯 [Split-Hopkinson-Pressure-Bar-Analysis-Tool](https://github.com/amisagarbiswas/SHPB-Analysis)  
-- 📊 [DEM-based strain rate simulation](https://github.com/amisagarbiswas)  
-- 🧪 [Load-deflection model for granular systems](https://github.com/amisagarbiswas)  
-- 🔬 [Hertzian Contact Simulation](https://github.com/amisagarbiswas)
+## 📜 Literature & Resources
+- [Moner Ontorale (Bengali)](./moner%20ontorale.txt) - Personal Bengali literature/notes
+
+## 🔬 Research Tools & Projects
+- 🎯 [Split-Hopkinson Pressure Bar Analysis Tool](https://github.com/amisagarbiswas/SHPB-Analysis) - Dynamic material testing analysis package
+- 📊 [DEM-based Strain Rate Simulation](https://github.com/amisagarbiswas) - Discrete Element Method simulations
+- 🧪 [Load-Deflection Model for Granular Systems](https://github.com/amisagarbiswas) - Granular material behavior analysis
+- 🔍 [Hertzian Contact Simulation](https://github.com/amisagarbiswas) - Contact mechanics modeling
 
 ---
 
