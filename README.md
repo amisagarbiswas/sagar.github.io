@@ -26,10 +26,21 @@
 
 ### 🎓 Education and Achievements
 
-1. B.E. in Civil Engineering – North Maharashtra University (2015–2019)  
-2. M.Tech in Geotechnical Engineering – NIT Durgapur (2019–2021)  
-3. Mahatma Gandhi National Fellowship – IIM Jammu & MSDE, GoI (2021–2023)  
-4. Research Scholar in Geotechnical Engineering – IIT Guwahati (2023–Present)
+🏛️ B.E. in Civil Engineering
+📍 North Maharashtra University (2015–2019)
+(Built foundations—both concrete and conceptual!)
+
+🌋 M.Tech in Geotechnical Engineering
+📍 NIT Durgapur (2019–2021)
+(Dug deep into soils, slopes, and seismic secrets!)
+
+🎖️ Mahatma Gandhi National Fellow
+📍 IIM Jammu + MSDE, GoI (2021–2023)
+(Bridging public policy & grassroots change ⚡)
+
+🔬 Research Scholar (Geotech)
+📍 IIT Guwahati (2023–Present)
+(Pushing boundaries of soil mechanics & DEM simulations 🚀)
 
 ---
 
