@@ -1,6 +1,9 @@
 # Hello, I'm Sagar Biswas 👋
 
-![Sagar Biswas](https://github.com/amisagarbiswas.png)
+<p align="center">
+  <img src="https://github.com/amisagarbiswas.png" width="150" alt="Sagar Biswas profile photo" style="border-radius:50%;">
+</p>
+
 
 ## ⚡ Engineer | Researcher | Social Worker | Writer
 
