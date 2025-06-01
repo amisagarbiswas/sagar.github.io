@@ -18,7 +18,7 @@
 
 🎓 I’m a **Research Scholar at IIT Guwahati** in Geotechnical Engineering.
 
-💡 I work on **Discrete Element Modeling (DEM)**, **Statistical Analysis**, and **Simulation tools**. Currently diving deep into **Web Apps with AI/ML integration**.
+💡 I work on **Discrete Element Modeling (DEM)**, **SHPB Specialist**, **Statistical Analysis**, and **Simulation tools**. Currently diving deep into **Web Apps with AI/ML integration**.
 
 🎵 I am learning **music arrangement**, 🎨 **advanced painting**, and am an active **writer in Bengali literature**.
 
