@@ -36,17 +36,17 @@
 ## 🔭 I’m Currently Working On
 
 - 📈 SHPB analysis of **granular materials** using **LIGGGHTS DEM**  
-- 🌐 Web-based scientific visualization  
-- 🧠 AI/ML integration in scientific computation  
+- 🌐 Web-based **scientific visualization**  
+- 🧠 **AI/ML** integration in scientific computation  
 - ✍️ Literature: **Bengali fairytale-type stories** & **social issue essays**
 
 ---
 
 ## 🤝 I’m Looking to Collaborate On
+ 
 
-- 💬 Review of scientific reports and Bengali writing  
+- 📊 Simulation and Visualization Tools
 - 🔧 Web Architecture and UI/UX Design  
-- 📊 Simulation and Visualization Tools  
 - 🧪 Experimental Design + Data Science projects
 - 📝 **Proofreading** of my **literary and scientific work**  
 
@@ -56,7 +56,6 @@
 
 - 🗣️ **Assamese** & **Urdu**  
 - 🧠 Machine Learning / AI  
-- 💻 TypeScript  
 - 🎶 Music arrangement and theory  
 - 🎨 Advanced digital and traditional painting
 
