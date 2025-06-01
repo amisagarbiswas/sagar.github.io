@@ -79,7 +79,7 @@
 
 ## ✨ Skills
 
-`LIGGGHTS` • `MATLAB` • `Python` • `C++` • `HTML/CSS` • `Git`  
+`LIGGGHTS` • `MATLAB` •  `ABAQUS` • `PLAXIS` •  `Python` • `C++` • `HTML/CSS` • `Git`  
 `AI/ML` • `Simulation Design` • `Bengali Literature` • `Art & Music`
 
 ---
