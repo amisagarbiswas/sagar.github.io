@@ -1,6 +1,6 @@
 # Hello, I'm Sagar Biswas 👋
 
-![hand-gif](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+![Sagar Biswas](https://github.com/amisagarbiswas.png)
 
 ## ⚡ Engineer | Researcher | Social Worker | Writer
 
